@@ -1,0 +1,7 @@
+{
+  "name": "agua-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
